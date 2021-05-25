@@ -1,2 +1,2 @@
 # recipe-app-api
-source code
+An api I created by following a udemy course- you can get the ingredients to certain recipes by calling the endpoints. Is not hosted so the repo must be run locally. Used python and 
